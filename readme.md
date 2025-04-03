@@ -2,7 +2,7 @@
 <p>Lightweight Parcel Template with Tailwind</p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/agragregra/parcel-tailwind/master/src/img/parcel-tailwind.jpg" alt="Parcel HTML Template with Tailwind">
+  <img src="https://raw.githubusercontent.com/webdesign-masteru/parcel-tailwind/master/src/img/parcel-tailwind.jpg" alt="Parcel HTML Template with Tailwind">
 </p>
 
 <p><strong>Parcel Tailwind</strong> - lightweight startup environment with <strong>Parcel</strong>, <strong>HTML imports</strong> (posthtml-include), <strong>npm run build</strong>, <strong>imagemin + webp</strong>.</p>
@@ -11,10 +11,10 @@
 
 <p>Clone into the current folder with remove all unnecessary (one command):</p>
 
-<pre>git clone https://github.com/agragregra/pt .; rm -rf trunk .gitignore readme.md .git</pre>
+<pre>git clone https://github.com/webdesign-masteru/parcel-tailwind .; rm -rf trunk .gitignore readme.md .git</pre>
 
 <ol>
-  <li>Clone or <a href="https://github.com/agragregra/pt/archive/master.zip">Download</a> <strong>Parcel Tailwind</strong> from GitHub</li>
+  <li>Clone or <a href="https://github.com/webdesign-masteru/parcel-tailwind/archive/master.zip">Download</a> <strong>Parcel Tailwind</strong> from GitHub</li>
   <li>Install Node Modules: <strong>npm i</strong></li>
   <li>Run: <strong>npm start</strong></li>
   <li>Build: <strong>npm run build</strong></li>
